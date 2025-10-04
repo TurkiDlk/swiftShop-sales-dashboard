@@ -1,0 +1,11 @@
+# SwiftShop Sales Dashboard Requirements
+
+# Dash framework
+dash==2.13.0
+
+# Data processing
+pandas==2.1.1
+numpy==1.26.0
+
+# Visualization
+plotly==5.18.0
